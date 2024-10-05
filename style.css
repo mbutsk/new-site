@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+}
+
+header {
+    margin: 0 auto;
+}
+
+#logo {
+    width: 193px;
+    height: 255px;
+}
+
+p {
+    color: white;
+    font-family: nunito;
+    font-size: 20pt;
+}
+
+li {
+    color: white;
+    font-family: nunito;
+    font-size: 20pt;
+}
+
+h1 {
+    font-family: fredoka;
+    color: white;
+    font-size: 70pt;
+}
+
+hr {
+    border: 4px dashed white;
+    border-radius: 4px;
+    margin: 1px;
+}
+
+
+#aka {
+    font-size: 30pt
+}
